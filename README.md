@@ -1,4 +1,4 @@
-# codetech-taSK-1
+# codetech-task1
 
 COMPANY: CODTECH IT SOLUTIONS
 
